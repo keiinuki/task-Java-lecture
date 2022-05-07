@@ -2,7 +2,7 @@
 
 ## 第一回講義の課題
  
-### HelloWorldWhile .java
+### HelloWorldWhile.java
 
   While文でHello Worldを10回表示
   
