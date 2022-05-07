@@ -8,7 +8,7 @@
   
   完了後にHello!!を表示
     
-### HelloWorldFor
+### HelloWorldFor.java
 
   ifとforの組み合わせで11回出力
   
